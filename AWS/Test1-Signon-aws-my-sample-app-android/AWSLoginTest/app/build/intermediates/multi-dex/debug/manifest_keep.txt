@@ -1,0 +1,14 @@
+-keep class com.awslogintest.Application {
+    <init>();
+    void attachBaseContext(android.content.Context);
+}
+-keep class com.awslogintest.SplashActivity { <init>(); }
+-keep class com.awslogintest.SignInActivity { <init>(); }
+-keep class com.awslogintest.MainActivity { <init>(); }
+-keep class com.facebook.FacebookActivity { <init>(); }
+-keep public class * extends android.app.backup.BackupAgent {
+    <init>();
+}
+-keep public class * extends java.lang.annotation.Annotation {
+    *;
+}

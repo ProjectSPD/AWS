@@ -1,0 +1,127 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\prayyaga\ProjectDWorkspace\AWS\Test1-Signon-aws-my-sample-app-android\AWSLoginTest\app\src\main\AndroidManifest.xml:16:1-68:12
+	xmlns:android
+		ADDED from C:\Users\prayyaga\ProjectDWorkspace\AWS\Test1-Signon-aws-my-sample-app-android\AWSLoginTest\app\src\main\AndroidManifest.xml:16:11-69
+	package
+		ADDED from C:\Users\prayyaga\ProjectDWorkspace\AWS\Test1-Signon-aws-my-sample-app-android\AWSLoginTest\app\src\main\AndroidManifest.xml:17:5-31
+		INJECTED from C:\Users\prayyaga\ProjectDWorkspace\AWS\Test1-Signon-aws-my-sample-app-android\AWSLoginTest\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\prayyaga\ProjectDWorkspace\AWS\Test1-Signon-aws-my-sample-app-android\AWSLoginTest\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\prayyaga\ProjectDWorkspace\AWS\Test1-Signon-aws-my-sample-app-android\AWSLoginTest\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\prayyaga\ProjectDWorkspace\AWS\Test1-Signon-aws-my-sample-app-android\AWSLoginTest\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\prayyaga\ProjectDWorkspace\AWS\Test1-Signon-aws-my-sample-app-android\AWSLoginTest\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\prayyaga\ProjectDWorkspace\AWS\Test1-Signon-aws-my-sample-app-android\AWSLoginTest\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\prayyaga\ProjectDWorkspace\AWS\Test1-Signon-aws-my-sample-app-android\AWSLoginTest\app\src\main\AndroidManifest.xml:19:5-67
+	android:name
+		ADDED from C:\Users\prayyaga\ProjectDWorkspace\AWS\Test1-Signon-aws-my-sample-app-android\AWSLoginTest\app\src\main\AndroidManifest.xml:19:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\prayyaga\ProjectDWorkspace\AWS\Test1-Signon-aws-my-sample-app-android\AWSLoginTest\app\src\main\AndroidManifest.xml:20:5-79
+	android:name
+		ADDED from C:\Users\prayyaga\ProjectDWorkspace\AWS\Test1-Signon-aws-my-sample-app-android\AWSLoginTest\app\src\main\AndroidManifest.xml:20:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\prayyaga\ProjectDWorkspace\AWS\Test1-Signon-aws-my-sample-app-android\AWSLoginTest\app\src\main\AndroidManifest.xml:21:5-76
+	android:name
+		ADDED from C:\Users\prayyaga\ProjectDWorkspace\AWS\Test1-Signon-aws-my-sample-app-android\AWSLoginTest\app\src\main\AndroidManifest.xml:21:22-73
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from C:\Users\prayyaga\ProjectDWorkspace\AWS\Test1-Signon-aws-my-sample-app-android\AWSLoginTest\app\src\main\AndroidManifest.xml:22:5-71
+	android:name
+		ADDED from C:\Users\prayyaga\ProjectDWorkspace\AWS\Test1-Signon-aws-my-sample-app-android\AWSLoginTest\app\src\main\AndroidManifest.xml:22:22-68
+uses-permission#android.permission.USE_CREDENTIALS
+ADDED from C:\Users\prayyaga\ProjectDWorkspace\AWS\Test1-Signon-aws-my-sample-app-android\AWSLoginTest\app\src\main\AndroidManifest.xml:23:5-74
+	android:name
+		ADDED from C:\Users\prayyaga\ProjectDWorkspace\AWS\Test1-Signon-aws-my-sample-app-android\AWSLoginTest\app\src\main\AndroidManifest.xml:23:22-71
+application
+ADDED from C:\Users\prayyaga\ProjectDWorkspace\AWS\Test1-Signon-aws-my-sample-app-android\AWSLoginTest\app\src\main\AndroidManifest.xml:25:5-67:19
+MERGED from [com.android.support:appcompat-v7:23.1.0] C:\Users\prayyaga\ProjectDWorkspace\AWS\Test1-Signon-aws-my-sample-app-android\AWSLoginTest\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.0] C:\Users\prayyaga\ProjectDWorkspace\AWS\Test1-Signon-aws-my-sample-app-android\AWSLoginTest\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.0] C:\Users\prayyaga\ProjectDWorkspace\AWS\Test1-Signon-aws-my-sample-app-android\AWSLoginTest\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.facebook.android:facebook-android-sdk:4.6.0] C:\Users\prayyaga\ProjectDWorkspace\AWS\Test1-Signon-aws-my-sample-app-android\AWSLoginTest\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.6.0\AndroidManifest.xml:28:5-20
+MERGED from [com.android.support:support-v4:23.1.0] C:\Users\prayyaga\ProjectDWorkspace\AWS\Test1-Signon-aws-my-sample-app-android\AWSLoginTest\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-plus:7.8.0] C:\Users\prayyaga\ProjectDWorkspace\AWS\Test1-Signon-aws-my-sample-app-android\AWSLoginTest\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.8.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:7.8.0] C:\Users\prayyaga\ProjectDWorkspace\AWS\Test1-Signon-aws-my-sample-app-android\AWSLoginTest\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.8.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.1.0] C:\Users\prayyaga\ProjectDWorkspace\AWS\Test1-Signon-aws-my-sample-app-android\AWSLoginTest\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from C:\Users\prayyaga\ProjectDWorkspace\AWS\Test1-Signon-aws-my-sample-app-android\AWSLoginTest\app\src\main\AndroidManifest.xml:28:9-41
+	android:allowBackup
+		ADDED from C:\Users\prayyaga\ProjectDWorkspace\AWS\Test1-Signon-aws-my-sample-app-android\AWSLoginTest\app\src\main\AndroidManifest.xml:26:9-35
+	android:icon
+		ADDED from C:\Users\prayyaga\ProjectDWorkspace\AWS\Test1-Signon-aws-my-sample-app-android\AWSLoginTest\app\src\main\AndroidManifest.xml:27:9-43
+	android:theme
+		ADDED from C:\Users\prayyaga\ProjectDWorkspace\AWS\Test1-Signon-aws-my-sample-app-android\AWSLoginTest\app\src\main\AndroidManifest.xml:29:9-40
+	android:name
+		ADDED from C:\Users\prayyaga\ProjectDWorkspace\AWS\Test1-Signon-aws-my-sample-app-android\AWSLoginTest\app\src\main\AndroidManifest.xml:30:9-52
+activity#com.awslogintest.SplashActivity
+ADDED from C:\Users\prayyaga\ProjectDWorkspace\AWS\Test1-Signon-aws-my-sample-app-android\AWSLoginTest\app\src\main\AndroidManifest.xml:32:9-40:20
+	android:label
+		ADDED from C:\Users\prayyaga\ProjectDWorkspace\AWS\Test1-Signon-aws-my-sample-app-android\AWSLoginTest\app\src\main\AndroidManifest.xml:34:13-45
+	android:configChanges
+		ADDED from C:\Users\prayyaga\ProjectDWorkspace\AWS\Test1-Signon-aws-my-sample-app-android\AWSLoginTest\app\src\main\AndroidManifest.xml:35:13-83
+	android:name
+		ADDED from C:\Users\prayyaga\ProjectDWorkspace\AWS\Test1-Signon-aws-my-sample-app-android\AWSLoginTest\app\src\main\AndroidManifest.xml:33:13-59
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\prayyaga\ProjectDWorkspace\AWS\Test1-Signon-aws-my-sample-app-android\AWSLoginTest\app\src\main\AndroidManifest.xml:36:13-39:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\prayyaga\ProjectDWorkspace\AWS\Test1-Signon-aws-my-sample-app-android\AWSLoginTest\app\src\main\AndroidManifest.xml:37:17-69
+	android:name
+		ADDED from C:\Users\prayyaga\ProjectDWorkspace\AWS\Test1-Signon-aws-my-sample-app-android\AWSLoginTest\app\src\main\AndroidManifest.xml:37:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\prayyaga\ProjectDWorkspace\AWS\Test1-Signon-aws-my-sample-app-android\AWSLoginTest\app\src\main\AndroidManifest.xml:38:17-77
+	android:name
+		ADDED from C:\Users\prayyaga\ProjectDWorkspace\AWS\Test1-Signon-aws-my-sample-app-android\AWSLoginTest\app\src\main\AndroidManifest.xml:38:27-74
+activity#com.awslogintest.SignInActivity
+ADDED from C:\Users\prayyaga\ProjectDWorkspace\AWS\Test1-Signon-aws-my-sample-app-android\AWSLoginTest\app\src\main\AndroidManifest.xml:41:9-46:20
+	android:label
+		ADDED from C:\Users\prayyaga\ProjectDWorkspace\AWS\Test1-Signon-aws-my-sample-app-android\AWSLoginTest\app\src\main\AndroidManifest.xml:43:13-59
+	android:configChanges
+		ADDED from C:\Users\prayyaga\ProjectDWorkspace\AWS\Test1-Signon-aws-my-sample-app-android\AWSLoginTest\app\src\main\AndroidManifest.xml:44:13-83
+	android:name
+		ADDED from C:\Users\prayyaga\ProjectDWorkspace\AWS\Test1-Signon-aws-my-sample-app-android\AWSLoginTest\app\src\main\AndroidManifest.xml:42:13-59
+activity#com.awslogintest.MainActivity
+ADDED from C:\Users\prayyaga\ProjectDWorkspace\AWS\Test1-Signon-aws-my-sample-app-android\AWSLoginTest\app\src\main\AndroidManifest.xml:47:9-50:20
+	android:label
+		ADDED from C:\Users\prayyaga\ProjectDWorkspace\AWS\Test1-Signon-aws-my-sample-app-android\AWSLoginTest\app\src\main\AndroidManifest.xml:49:13-56
+	android:name
+		ADDED from C:\Users\prayyaga\ProjectDWorkspace\AWS\Test1-Signon-aws-my-sample-app-android\AWSLoginTest\app\src\main\AndroidManifest.xml:48:13-57
+activity#com.facebook.FacebookActivity
+ADDED from C:\Users\prayyaga\ProjectDWorkspace\AWS\Test1-Signon-aws-my-sample-app-android\AWSLoginTest\app\src\main\AndroidManifest.xml:54:9-58:75
+	android:label
+		ADDED from C:\Users\prayyaga\ProjectDWorkspace\AWS\Test1-Signon-aws-my-sample-app-android\AWSLoginTest\app\src\main\AndroidManifest.xml:57:13-45
+	android:configChanges
+		ADDED from C:\Users\prayyaga\ProjectDWorkspace\AWS\Test1-Signon-aws-my-sample-app-android\AWSLoginTest\app\src\main\AndroidManifest.xml:56:13-96
+	android:theme
+		ADDED from C:\Users\prayyaga\ProjectDWorkspace\AWS\Test1-Signon-aws-my-sample-app-android\AWSLoginTest\app\src\main\AndroidManifest.xml:58:13-72
+	android:name
+		ADDED from C:\Users\prayyaga\ProjectDWorkspace\AWS\Test1-Signon-aws-my-sample-app-android\AWSLoginTest\app\src\main\AndroidManifest.xml:55:13-57
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from C:\Users\prayyaga\ProjectDWorkspace\AWS\Test1-Signon-aws-my-sample-app-android\AWSLoginTest\app\src\main\AndroidManifest.xml:60:9-108
+	android:name
+		ADDED from C:\Users\prayyaga\ProjectDWorkspace\AWS\Test1-Signon-aws-my-sample-app-android\AWSLoginTest\app\src\main\AndroidManifest.xml:60:20-65
+	android:value
+		ADDED from C:\Users\prayyaga\ProjectDWorkspace\AWS\Test1-Signon-aws-my-sample-app-android\AWSLoginTest\app\src\main\AndroidManifest.xml:60:66-105
+meta-data#com.google.android.gms.version
+ADDED from C:\Users\prayyaga\ProjectDWorkspace\AWS\Test1-Signon-aws-my-sample-app-android\AWSLoginTest\app\src\main\AndroidManifest.xml:64:9-66:69
+MERGED from [com.google.android.gms:play-services-base:7.8.0] C:\Users\prayyaga\ProjectDWorkspace\AWS\Test1-Signon-aws-my-sample-app-android\AWSLoginTest\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.8.0\AndroidManifest.xml:21:9-23:69
+	android:name
+		ADDED from C:\Users\prayyaga\ProjectDWorkspace\AWS\Test1-Signon-aws-my-sample-app-android\AWSLoginTest\app\src\main\AndroidManifest.xml:65:13-58
+	android:value
+		ADDED from C:\Users\prayyaga\ProjectDWorkspace\AWS\Test1-Signon-aws-my-sample-app-android\AWSLoginTest\app\src\main\AndroidManifest.xml:66:13-66
+uses-sdk
+INJECTED from C:\Users\prayyaga\ProjectDWorkspace\AWS\Test1-Signon-aws-my-sample-app-android\AWSLoginTest\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:multidex:1.0.1] C:\Users\prayyaga\ProjectDWorkspace\AWS\Test1-Signon-aws-my-sample-app-android\AWSLoginTest\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:appcompat-v7:23.1.0] C:\Users\prayyaga\ProjectDWorkspace\AWS\Test1-Signon-aws-my-sample-app-android\AWSLoginTest\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.0] C:\Users\prayyaga\ProjectDWorkspace\AWS\Test1-Signon-aws-my-sample-app-android\AWSLoginTest\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.0] C:\Users\prayyaga\ProjectDWorkspace\AWS\Test1-Signon-aws-my-sample-app-android\AWSLoginTest\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:20:5-43
+MERGED from [com.facebook.android:facebook-android-sdk:4.6.0] C:\Users\prayyaga\ProjectDWorkspace\AWS\Test1-Signon-aws-my-sample-app-android\AWSLoginTest\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.6.0\AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:support-v4:23.1.0] C:\Users\prayyaga\ProjectDWorkspace\AWS\Test1-Signon-aws-my-sample-app-android\AWSLoginTest\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-plus:7.8.0] C:\Users\prayyaga\ProjectDWorkspace\AWS\Test1-Signon-aws-my-sample-app-android\AWSLoginTest\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.8.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.8.0] C:\Users\prayyaga\ProjectDWorkspace\AWS\Test1-Signon-aws-my-sample-app-android\AWSLoginTest\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.8.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.1.0] C:\Users\prayyaga\ProjectDWorkspace\AWS\Test1-Signon-aws-my-sample-app-android\AWSLoginTest\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		INJECTED from C:\Users\prayyaga\ProjectDWorkspace\AWS\Test1-Signon-aws-my-sample-app-android\AWSLoginTest\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\prayyaga\ProjectDWorkspace\AWS\Test1-Signon-aws-my-sample-app-android\AWSLoginTest\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\prayyaga\ProjectDWorkspace\AWS\Test1-Signon-aws-my-sample-app-android\AWSLoginTest\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\prayyaga\ProjectDWorkspace\AWS\Test1-Signon-aws-my-sample-app-android\AWSLoginTest\app\src\main\AndroidManifest.xml
